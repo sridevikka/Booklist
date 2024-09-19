@@ -4,11 +4,17 @@
 }
 body{
     font-family: 'Poppins',sans-serif;
+     background-color: #f5cbe7;
 }
 
 .Navbar{
     background-color: #FD6569;
     padding: 10px;
+}
+.Navbar h1{
+    align-items: center;
+    justify-content: center;
+    display: flex;
 }
 
 .container{
